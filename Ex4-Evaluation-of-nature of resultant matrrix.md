@@ -22,8 +22,8 @@ To write a java function to evaluate weather the given Matrix A has all odd numb
 
 ## Program:
 ```
-Developed by: SANJAY M
-RegisterNumber:  212223230187
+Developed by: KISHORE G
+RegisterNumber:  212223040099
 ```
 ```
 import java.util.Scanner;
